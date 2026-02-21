@@ -12,15 +12,6 @@
 
 <br/>
 
-## 🎬 Execution Preview
-
-<div align="center">
-  
-  ![Testcase Execution Preview](test_execution_preview.webp)
-  
-</div>
-
-<br/>
 
 ## 📖 Overview
 
@@ -137,6 +128,3 @@ glad_Bdd/
 
 <br/>
 
-<div align="center">
-  <i>Maintained with ❤️ by the QA Automation Team</i>
-</div>
