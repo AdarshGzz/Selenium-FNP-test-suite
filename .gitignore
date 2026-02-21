@@ -1,0 +1,17 @@
+target/
+*.log
+.settings/
+.classpath
+.project
+.vscode/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+test-output/
+reports/
+logs/
+.DS_Store
